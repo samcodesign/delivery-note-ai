@@ -1,0 +1,9 @@
+transformers
+torch
+datasets
+pillow
+pdf2image
+pandas
+numpy
+tqdm
+wandb  # for experiment tracking
